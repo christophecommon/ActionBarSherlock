@@ -1,6 +1,8 @@
 #Android generated
 bin
 gen
+build
+actionbarsherlock/build
 
 #Eclipse
 .project
